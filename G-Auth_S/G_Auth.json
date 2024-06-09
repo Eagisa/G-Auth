@@ -1,12 +1,13 @@
 {
-    "G-Auth-C": {
-      "Class": "G-Auth - [Client]",
-      "Version": "1.0.0.0",
-      "Modified_Date": "06/09/2024 2:50 PM"
-    },
-  
-    "G-Auth-FS": {
-      "Error": "https://raw.githubusercontent.com/Eagisa/RQA/main/RQA_FS/Error.mp3",
-      "Res": "https://raw.githubusercontent.com/Eagisa/RQA/main/RQA_FS/Res.mp3"
-    }
+  "G-Auth-C": {
+    "Class": "G-Auth - [Client]",
+    "Version": "1.0.0.0",
+    "Modified_Date": "06/09/2024 2:50 PM"
+  },
+
+  "G-Auth-FS": {
+    "Error": "https://raw.githubusercontent.com/Eagisa/G-Auth/raw/main/G-Auth-FS/Res.mp3",
+    "Res": "https://raw.githubusercontent.com/Eagisa/G-Auth/raw/main/G-Auth-FS/Error.mp3",
+    "G_Auth_Launcher": "https://raw.githubusercontent.com/Eagisa/G-Auth/raw/main/G-Auth-FS/G_Auth_Launcher.exe"
+  }
 }
